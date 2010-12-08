@@ -2,6 +2,6 @@
 # bisect.rb
 # Demonstration of git bisect
 
-puts 'This is version 5.'
+puts 'This is version 6.'
 
-puts "2 + 2 = #{2 + 2}"
+puts "2 + 2 = 5"
